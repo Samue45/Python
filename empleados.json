@@ -1,0 +1,22 @@
+[
+    {
+        "tipo": "Gerente",
+        "nombre": "Ana",
+        "edad": 40,
+        "departamento": "Ventas",
+        "equipo": "Equipo Norte"
+    },
+    {
+        "tipo": "Desarrollador",
+        "nombre": "Luis",
+        "edad": 30,
+        "departamento": "IT",
+        "lenguaje_programacion": "Python"
+    },
+    {
+        "tipo": "Empleado",
+        "nombre": "Marta",
+        "edad": 25,
+        "departamento": "Recursos Humanos"
+    }
+]
