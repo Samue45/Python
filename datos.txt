@@ -1,0 +1,4 @@
+Nombre : Juan Pérez 
+Edad : 30 
+Ciudad : Madrid 
+Profesión : ArquitectoSituación laboral : Parado

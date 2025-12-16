@@ -1,0 +1,4 @@
+Nombre: Juan
+Edad: 80
+Ciudad: Madrid
+Profesión: Ingeniero
